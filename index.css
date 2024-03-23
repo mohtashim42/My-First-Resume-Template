@@ -1,0 +1,120 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.header{
+    display: flex;
+}
+.circle{
+    border: 2px solid transparent;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    margin: 25px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+div.name{
+    color: rgba(0, 170, 255, 0.798);
+    margin-top: 25px;
+    margin-left: 25px;
+    /* text-align: center; */
+}
+.about{
+    color: black;
+}
+.info-border{
+    border: 2px solid transparent;
+    background-color: rgb(243, 240, 240);
+    height: 100px;
+    width:100%;
+}
+.i1{
+    display: flex;
+}
+.i2{
+    display: flex;
+}
+div.info{
+    margin-left:10%;
+}
+.phone{
+    margin-left:21%;
+}
+.location{
+    margin-left:10%;
+}
+.linkldin{
+    margin-left:28%;
+}
+div.skills{
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 130px;
+}
+.skill-b{
+    width:fit-content;
+    padding: 4px;
+    border: 1px solid transparent;
+    background-color: rgb(207, 203, 203);
+    border-radius: 5px;
+
+}
+div.scontent{
+    font-weight:lighter;
+    margin-left: 100px;
+}
+.main-block{
+    display: flex;
+}
+.e-block{
+    margin-top: 5%;
+    /* margin-left: 48%; */
+    
+}
+.block2{
+    height: fit-content;
+}
+div.education{
+    font-weight:lighter;
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 100px;
+}
+div.econtent{
+    font-weight:lighter;
+    margin-left: 100px;
+}
+div.experience{
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 100px;
+}
+div.excontent{
+    font-weight:lighter;
+    margin-left: 90px;
+}
+div.main-block2{
+    display:flex;
+}
+div.projects{
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 110px;
+}
+div.pcontent{
+    font-weight:lighter;
+    margin-left: 100px;
+}
+div.achievements{
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 150px;
+}
+div.acontent{
+    font-weight:lighter;
+    margin-left: 150px;
+}
+div.hobbies{
+    color: rgba(0, 170, 255, 0.798);
+    margin-left: 110px;
+}
+div.hcontent{
+    font-weight:lighter;
+    margin-left: 100px;
+}
